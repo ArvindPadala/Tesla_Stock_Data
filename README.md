@@ -1,4 +1,4 @@
-# Tesla_Stock_Data
+# Tesla_Stock_Data - Web Scraping
 Web Scrapping using Python for Tesla stock Data
 
 Define a Function that Makes a Graph
